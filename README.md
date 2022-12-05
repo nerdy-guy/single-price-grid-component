@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](repo link)
-- [Live Site](github live page)
+- [Solution](https://github.com/nerdy-guy/single-price-grid-component)
+- [Live Site](https://nerdy-guy.github.io/single-price-grid-component/)
 
 ## Built with
 
@@ -39,5 +39,11 @@ Users should be able to:
 ## Project structure
 
 ```
-
+single-price-grid-component
+├── images
+│   └── favicon-32x32.png
+├── index.html
+├── README.md
+├── screenshot.png
+└── style.css
 ```
