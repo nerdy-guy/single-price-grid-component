@@ -146,7 +146,7 @@ body {
   flex-direction: column;
   justify-content: space-evenly;
 
-  color: var(--clr-light-gray);
+  color: var(--clr-white);
   background-color: var(--clr-cyan);
 
   padding: 1.2rem 2rem;
@@ -192,7 +192,7 @@ body {
 
 /* Thrid card */
 .card-3 {
-  color: var(--clr-light-gray);
+  color: var(--clr-white);
   background-color: var(--clr-cyan);
   opacity: 0.8;
   padding: 1.2rem 2rem;
