@@ -119,12 +119,12 @@ body {
   border-top-left-radius: 0.375rem;
 }
 
-.card-1__header-1 {
+.card-1__header {
   color: var(--clr-cyan);
   font-weight: var(--fw-bold);
 }
 
-.card-1__header-2 {
+.card-1__paragraph-1 {
   color: var(--clr-bright-yellow);
   font-weight: var(--fw-bold);
   font-size: 1rem;
@@ -133,7 +133,7 @@ body {
   padding-right: 1.5rem;
 }
 
-.card-1__paragraph {
+.card-1__paragraph-2 {
   color: var(--clr-grayish-blue);
   font-size: 1rem;
   margin-top: 1rem;
@@ -174,7 +174,8 @@ body {
 }
 
 .button {
-  border: 0;
+  text-align: center;
+  text-decoration: none;
   border-radius: 0.3rem;
   background-color: var(--clr-bright-yellow);
   color: var(--clr-white);
